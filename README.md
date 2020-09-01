@@ -1,2 +1,2 @@
 # Tarea2_SM.
-Leer README
+No sabía que archivo era el que tenía que tener mi nombre, perdón :(
